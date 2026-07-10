@@ -29,7 +29,7 @@ The core of this system is a Random Forest Classifier trained to identify fraudu
 Clone the repository:
 
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/Nikhilgupta814/cc_anomaly_detection.git
 cd credit-card-fraud-detection
 
 ```
@@ -88,6 +88,4 @@ Access the app by navigating to `http://localhost:8501` in your browser.
 * **Fraud_Detection_Notebook.ipynb:** Complete EDA, feature engineering, training, and logging code.
 
 ## 📈 Performance Summary
-
 The model was evaluated against unseen test data, with the Random Forest Classifier demonstrating the best performance in balancing precision and recall for highly imbalanced transaction data.
-======
