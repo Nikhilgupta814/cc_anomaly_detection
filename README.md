@@ -1,3 +1,4 @@
+## <<<<<<< docs/adding_readme
 💳 Credit Card Fraud Detection Pipeline
 This project provides an end-to-end machine learning pipeline for detecting fraudulent credit card transactions. It includes data preprocessing, model training with various algorithms, experiment tracking using MLFlow, and a user-friendly frontend interface built with Streamlit.
 
@@ -72,3 +73,6 @@ Fraud_Detection_Notebook.ipynb: Complete EDA, feature engineering, training, and
 
 📈 Performance Summary
 The model was evaluated against unseen test data, with the Random Forest Classifier demonstrating the best performance in balancing precision and recall for highly imbalanced transaction data.
+=======
+
+##>>>>>>> 
