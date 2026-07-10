@@ -73,6 +73,3 @@ Fraud_Detection_Notebook.ipynb: Complete EDA, feature engineering, training, and
 
 📈 Performance Summary
 The model was evaluated against unseen test data, with the Random Forest Classifier demonstrating the best performance in balancing precision and recall for highly imbalanced transaction data.
-=======
-
-##>>>>>>> 
